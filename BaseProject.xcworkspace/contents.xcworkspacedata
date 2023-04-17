@@ -16,4 +16,7 @@
    <FileRef
       location = "group:../Component/Comp.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:../RedirectManager/RedirectManager.xcodeproj">
+   </FileRef>
 </Workspace>

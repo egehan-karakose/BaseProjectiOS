@@ -19,6 +19,8 @@
 		B072A19327F0A7BA00419BF1 /* Comp.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B072A18E27F0A7BA00419BF1 /* Comp.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B072A20727F0ABBA00419BF1 /* Networking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B072A20627F0ABBA00419BF1 /* Networking.framework */; };
 		B072A20827F0ABBA00419BF1 /* Networking.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B072A20627F0ABBA00419BF1 /* Networking.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		D860283729EDD66E00E2607C /* RedirectManager.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D860283629EDD66E00E2607C /* RedirectManager.framework */; };
+		D860283829EDD66E00E2607C /* RedirectManager.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = D860283629EDD66E00E2607C /* RedirectManager.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		F28039DD7FC63ADF21E82503 /* Pods_BaseProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B5485E08F8296150CEF1A01 /* Pods_BaseProject.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +33,7 @@
 			files = (
 				B072A19127F0A7BA00419BF1 /* Common.framework in Embed Frameworks */,
 				B072A19327F0A7BA00419BF1 /* Comp.framework in Embed Frameworks */,
+				D860283829EDD66E00E2607C /* RedirectManager.framework in Embed Frameworks */,
 				B072A20827F0ABBA00419BF1 /* Networking.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
@@ -54,6 +57,7 @@
 		B072A18F27F0A7BA00419BF1 /* Networking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Networking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B072A20627F0ABBA00419BF1 /* Networking.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Networking.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B17AA7EEBE98C597C457B1AF /* Pods-BaseProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BaseProject.debug.xcconfig"; path = "Target Support Files/Pods-BaseProject/Pods-BaseProject.debug.xcconfig"; sourceTree = "<group>"; };
+		D860283629EDD66E00E2607C /* RedirectManager.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = RedirectManager.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,7 @@
 			files = (
 				B072A20727F0ABBA00419BF1 /* Networking.framework in Frameworks */,
 				F28039DD7FC63ADF21E82503 /* Pods_BaseProject.framework in Frameworks */,
+				D860283729EDD66E00E2607C /* RedirectManager.framework in Frameworks */,
 				B072A19027F0A7BA00419BF1 /* Common.framework in Frameworks */,
 				B072A19227F0A7BA00419BF1 /* Comp.framework in Frameworks */,
 			);
@@ -106,6 +111,7 @@
 		E2DC8225F6955ACEFC6C4DE1 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D860283629EDD66E00E2607C /* RedirectManager.framework */,
 				B072A20627F0ABBA00419BF1 /* Networking.framework */,
 				B072A18D27F0A7BA00419BF1 /* Common.framework */,
 				B072A18E27F0A7BA00419BF1 /* Comp.framework */,

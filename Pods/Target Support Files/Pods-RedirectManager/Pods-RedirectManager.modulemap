@@ -1,0 +1,6 @@
+framework module Pods_RedirectManager {
+  umbrella header "Pods-RedirectManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

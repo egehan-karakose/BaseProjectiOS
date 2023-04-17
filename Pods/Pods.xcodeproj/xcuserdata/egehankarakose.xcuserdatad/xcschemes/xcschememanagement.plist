@@ -130,54 +130,61 @@
 			<key>orderHint</key>
 			<integer>20</integer>
 		</dict>
-		<key>SDWebImage-iOS11.0.xcscheme</key>
+		<key>Pods-RedirectManager.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>21</integer>
 		</dict>
-		<key>SDWebImage-iOS15.2.xcscheme</key>
+		<key>SDWebImage-iOS11.0.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>22</integer>
 		</dict>
-		<key>Swinject.xcscheme</key>
+		<key>SDWebImage-iOS15.2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>23</integer>
 		</dict>
-		<key>UIBannerView-iOS11.0-UIBannerView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-			<key>orderHint</key>
-			<integer>25</integer>
-		</dict>
-		<key>UIBannerView-iOS11.0.xcscheme</key>
+		<key>Swinject.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>24</integer>
 		</dict>
+		<key>UIBannerView-iOS11.0-UIBannerView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>UIBannerView-iOS11.0.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
 		<key>UIBannerView-iOS15.2-UIBannerView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>27</integer>
+			<integer>28</integer>
 		</dict>
 		<key>UIBannerView-iOS15.2.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>26</integer>
+			<integer>27</integer>
 		</dict>
 		<key>lottie-ios-iOS11.0.xcscheme</key>
 		<dict>
